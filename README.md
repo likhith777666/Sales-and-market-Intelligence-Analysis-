@@ -1,9 +1,10 @@
 # Sales-and-market-Intelligence-Analysis-
+  Raw data set
 [Uploading electronics_sales.csv…]()
 [Uploading ecommerce_data_uk.csv…]()
 
 
-Raw data set
+
 
 
 ![Sales and market Intelligence Analysis screen shot](https://github.com/user-attachments/assets/711c17a2-e73c-424e-b8b5-de4e7d79941d)
